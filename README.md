@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Kevin</h1>
-<h3 align="center">Técnico en Sistemas y Redes | Desarrollador en formación (DAM) | Soporte IT</h3>
+<h3 align="center">Técnico en Sistemas y Redes | Desarrollador de Software | Soporte IT</h3>
 
 <p align="center">
 Profesional IT con base sólida en administración de sistemas, redes y soporte técnico, en proceso de especialización en desarrollo de software multiplataforma. Combino conocimientos de infraestructura, backend y frontend con experiencia práctica en entornos de soporte e incidencias.
