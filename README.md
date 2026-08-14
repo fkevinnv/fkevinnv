@@ -37,7 +37,7 @@ Profesional IT con base sólida en administración de sistemas, redes y soporte 
 
 ### 📈 Estadísticas de GitHub
 
-[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=fkevinnv&theme=dark&hide_border=false&border_radius=4.4&short_numbers=false)](https://git.io/streak-stats)
+[![Racha de Github](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
