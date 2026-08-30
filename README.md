@@ -9,7 +9,7 @@ Profesional IT con base sólida en administración de sistemas, redes y soporte 
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 **Formación:** Técnico en Sistemas Microinformáticos y Redes (SMR) | Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 🎓 **Formación:** Técnico en Sistemas Microinformáticos y Redes | Desarrollador de Aplicaciones Multiplataforma y Web | 
 - 🔭 **Actualmente trabajando en:** Proyectos con **AWS, Java y Python**
 - 🎫 **Soporte y gestión IT:** Uso de herramientas de ticketing y gestión de incidencias, resolución de soporte técnico de primer y segundo nivel
 - 🖥️ **Sistemas operativos:** Experiencia multiplataforma (Windows, macOS y Linux), con especialización y preferencia por entornos **Linux**
